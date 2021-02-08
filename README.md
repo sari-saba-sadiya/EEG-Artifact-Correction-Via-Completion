@@ -4,6 +4,7 @@ This is code for the artifact correction section of the paper "Unsupervised EEG 
 
 
 [1] S. Phadikar, N. Sinha, and R. Ghosh, “Automatic eeg eyeblink artefactidentification  and  removal  technique  using  independent  componentanalysis  in  combination  with  support  vector  machines  and  denoisingautoencoder”
+
 [2] B. Somers,  T.  Francart,  and  A.  Bertrand,  “A  generic  eeg  artifactremoval algorithm based on the multi-channel wiener filter.”
 
 ## Setup
